@@ -1,0 +1,20 @@
+{
+    "title": "AI Legal Assistant – Code du travail marocain",
+    "description": "Assistant juridique intelligent permettant d’interroger le Code du travail marocain en langage naturel.",
+    "technologies": [
+      "Python",
+      "FastAPI",
+      "FAISS",
+      "Sentence-Transformers",
+      "Ollama (LLM local)"
+    ],
+    "features": [
+      "Recherche sémantique juridique",
+      "Filtrage métier pour éviter les articles hors contexte",
+      "Réponse basée uniquement sur les textes officiels",
+      "Reformulation contrôlée par LLM local",
+      "Interface web simple"
+    ],
+    "author": "Jaafar Elmountassir"
+  }
+  
